@@ -308,3 +308,19 @@ After this, Git should be recognized in your terminal, and you can continue with
 2. **Commit** → `git commit -m "message"`
 3. **Push** → `git push origin main`
 4. **Pull** → `git pull origin main`
+
+Certainly! Here's a section you can add to your README to encourage people to open issues for any unclarity or questions they might have:
+
+---
+
+## 🤔 Got Questions or Unclear Sections?
+
+If something in this guide is unclear, or if you have any questions, feel free to open an issue! We're happy to clarify anything that might be confusing. Your feedback helps us improve the guide for everyone.
+
+### How to Open an Issue:
+1. Go to the [Issues](https://github.com/BlcMed/git-guide/issues) section of this repository.
+2. Click on "New Issue".
+3. Describe the section or concept you're having trouble with, or any questions you may have. The more details, the better!
+4. Submit the issue, and we’ll do our best to provide clarification or improve the content.
+
+We appreciate your contributions in helping us keep the guide clear and helpful!
